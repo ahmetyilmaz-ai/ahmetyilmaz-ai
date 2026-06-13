@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="assets/banner.jpg" alt="AI & Computer Vision Engineer — banner" width="100%" />
+
+<br/><br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=70&lines=AI+%26+Computer+Vision+Engineer;Deep+Learning+%7C+Classical+ML+%7C+YOLO;Computer+Engineering+Student+%40+BTU;Building+real-time+vision+systems" alt="typing banner" />
 
 <p>
