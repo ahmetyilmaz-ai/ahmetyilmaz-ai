@@ -50,18 +50,6 @@ I'm Ahmet — a third-year **Computer Engineering** student at **Bursa Technical
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **🚗 [License Plate Recognition](https://github.com/ahmetyilmaz-ai/VLM_Final_Projesi)** | Real-time license plate detection & OCR with a vision-language model fallback, wrapped in a Streamlit interface. | `YOLO11` · `EasyOCR` · `Florence-2` · `OpenCV` |
-| **🗺️ [RouteMinds AI](https://github.com/ahmetyilmaz-ai/RouteMinds-AI)** | Logistics route optimization built for **TEKNOFEST 2026**. | `Python` · `Optimization` · `ML` |
-| **🍽️ [NeYesem](https://github.com/ahmetyilmaz-ai/NeYesem)** | Food-delivery price aggregator with ML-based recommendations. | `Python` · `scikit-learn` · `FastAPI` |
-
-> 🏅 **Datathon highlights:** 7th of 110 teams (appointment no-show prediction) · anomaly-based bot detection with Isolation Forest on 5M+ rows.
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -72,6 +60,20 @@ I'm Ahmet — a third-year **Computer Engineering** student at **Bursa Technical
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=ahmetyilmaz-ai&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=00D9FF" alt="streak" />
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmetyilmaz-ai/ahmetyilmaz-ai/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmetyilmaz-ai/ahmetyilmaz-ai/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ahmetyilmaz-ai/ahmetyilmaz-ai/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
